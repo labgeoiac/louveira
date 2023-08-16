@@ -27,4 +27,4 @@
 
 ## Propriedades rurais de Louveira-SP
 
-#### Propriedades rurais corrigidas ([ver no mapa](PSA_Louveira.html))
+#### PSA Louveira ([ver no mapa](PSA_Louveira.html))
