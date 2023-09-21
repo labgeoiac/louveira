@@ -2,17 +2,18 @@
 
 # Louveira-SP
 
-## Bases propriedades rurais
+## Bases de dados das propriedades rurais
 
 ### CAR
 #### Ir para [SICAR](https://www.car.gov.br/publico/imoveis/index)
+
+### SIGEF / SNCI
+#### Ir para [Acervo fundiário (INCRA)](https://acervofundiario.incra.gov.br/acervo/login.php)
+
+### Links para consulta de propriedades da base CAR
 #### Ir para [Consulta ao CAR](https://car.agricultura.sp.gov.br/#/consultar)
 #### Ir para [Mapas CAR-SP](https://geo.cati.sp.gov.br/portal/apps/webappviewer/index.html?id=8ef6034184a247da9065bc23aec7cebf)
 #### Ir para [Base DataGEO](https://datageo.ambiente.sp.gov.br/app/?ctx=CAR#)
-
-### SIGEF / SNCI
-#### Ir para [Sistema Nacional de Cadastro Rural](https://sncr.serpro.gov.br/sncr-web/consultaPublica.jsf;jsessionid=vbIEEUXZE6+QzHhWxFNKVkP8.sncr-web8?windowId=568)
-#### Ir para [Acervo fundiário (INCRA)](https://acervofundiario.incra.gov.br/acervo/login.php)
 
 ## Adequação das APPs
 
